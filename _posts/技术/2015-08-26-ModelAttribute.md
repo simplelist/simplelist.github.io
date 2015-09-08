@@ -3,7 +3,7 @@ layout: post
 title: springMVC前置方法
 category: 技术
 tags: spring springMVC
-keywords: springMVC,controller,方法执行之前
+keywords: springMVC controller 方法执行之前
 description: springMVC中controller方法执行之前
 ---
 #SpringMVC中controller中方法执行之前加入前置方法
