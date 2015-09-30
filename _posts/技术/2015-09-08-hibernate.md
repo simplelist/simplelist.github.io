@@ -47,7 +47,9 @@ private Advertiser advertiserId;
 xml
 
 ```
-<many-to-one name="advertiserId" column="advertiserId" class="com.yxtar.server.dto.Advertiser"/>
+<many-to-one name="advertiserId" class="com.yxtar.server.dto.Advertiser" lazy="true" fetch="select">
+	<column name="advertiserId" />
+</many-to-one>
 ```
 多的一方 java
 
