@@ -8,8 +8,8 @@ author:
   email: 707069921@qq.com
   link: http://simplelist.github.com
  
-highlighter: pygments
-markdown: kramdown
+highlighter: rouge
+markdown: redcarpet
 redcarpet:
   extensions:
     - fenced_code_blocks
