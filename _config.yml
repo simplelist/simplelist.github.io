@@ -9,7 +9,7 @@ author:
   link: http://simplelist.github.com
  
 highlighter: pygments
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions:
     - fenced_code_blocks
