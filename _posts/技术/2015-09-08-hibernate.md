@@ -6,9 +6,9 @@ tags: hibernate xml
 keywords: hibernate
 description: hibernate关系映射xml
 ---
-#hibernate关系映射xml
+# hibernate关系映射xml
 
-###一对一
+### 一对一
 
 一的一方
 java
@@ -38,7 +38,7 @@ xml
 ```
 
 ***
-###一对多
+### 一对多
 一的一方 java
 
 ```
@@ -68,7 +68,7 @@ xml
 ```
 
 ***
-###多对多
+### 多对多
 多的一方 java
 
 ```
