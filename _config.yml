@@ -8,7 +8,10 @@ author:
   email: 707069921@qq.com
   link: http://simplelist.github.com
  
-
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 # 站点信息
 title: 史继坤的博客
 description: My personal blog
