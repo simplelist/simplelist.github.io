@@ -198,7 +198,9 @@ public abstract class BaseDto implements Serializable, StrategyMap {
 	
 }
 ```
+
 ### Admin.java
+
 ```
 package com.yxtar.server.dto;
 
